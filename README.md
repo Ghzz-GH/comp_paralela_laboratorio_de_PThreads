@@ -1,0 +1,1 @@
+# comp_paralela_laboratorio_de_PThreads
